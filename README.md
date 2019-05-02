@@ -6,7 +6,7 @@ After typing the sentence several times, Roy became bored with it so he started 
 
 Given a sentence, determine whether it is a pangram. Ignore case.
 
-Function Description
+### Function Description
 
 Complete the function pangrams in the editor below. It should return the string pangram if the input string is a pangram. Otherwise, it should return not pangram.
 
