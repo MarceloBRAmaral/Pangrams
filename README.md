@@ -14,7 +14,7 @@ pangrams has the following parameter(s):
 
 - s: a string to test
 
-Input Format
+### Input Format
 
 Input consists of a string
 
