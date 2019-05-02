@@ -12,7 +12,7 @@ Complete the function pangrams in the editor below. It should return the string 
 
 pangrams has the following parameter(s):
 
-    s: a string to test
+- s: a string to test
 
 Input Format
 
