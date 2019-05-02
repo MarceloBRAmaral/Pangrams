@@ -20,37 +20,37 @@ Input consists of a string
 
 .
 
-Constraints
+### Constraints
 
 
 Each character of ,
 
-Output Format
+### Output Format
 
 Output a line containing pangram if
 
 is a pangram, otherwise output not pangram.
 
-Sample Input 0
+### Sample Input 0
 
 We promptly judged antique ivory buckles for the next prize
 
-Sample Output 0
+### Sample Output 0
 
 pangram
 
-Sample Explanation 0
+### Sample Explanation 0
 
 All of the letters of the alphabet are present in the string.
 
-Sample Input 1
+### Sample Input 1
 
 We promptly judged antique ivory buckles for the prize
 
-Sample Output 1
+### Sample Output 1
 
 not pangram
 
-Sample Explanation 0
+### Sample Explanation 0
 
 The string lacks an x. 
