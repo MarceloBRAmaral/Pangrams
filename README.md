@@ -16,20 +16,17 @@ pangrams has the following parameter(s):
 
 ### Input Format
 
-Input consists of a string
-
-.
+Input consists of a string **s**.
 
 ### Constraints
 
+**0 <= |s| <= 10^3**
 
-Each character of ,
+Each character of **s**, **s[i] ∈ {a-z, A-Z, space}**
 
 ### Output Format
 
-Output a line containing pangram if
-
-is a pangram, otherwise output not pangram.
+Output a line containing pangram if **s** is a pangram, otherwise output not pangram.
 
 ### Sample Input 0
 
